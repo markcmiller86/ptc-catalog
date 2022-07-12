@@ -26,7 +26,7 @@ Inspired by research results, create a scope of your eventual ideal end-user doc
 2. Focus on creation of initial set of documentation that is most likely to be used by end-users (ex: README, software 
 introduction guide, software installation and initial setup testing guide, troubleshooting guide etc.
 3. Develop a process to solicit feedback on the user documentation and incorporate improvements.
-4. Some documentation tools which be useful:
+4. Some documentation tools which could be useful:
    - [Doxygen](http://doxygen.nl)
    - [Sphinx](https://www.sphinx-doc.org/en/master/)
    - [ReadTheDocs](https://readthedocs.org)
