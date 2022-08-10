@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Continuous Integration
 
+<a href='/ptc-catalog/catalog/ContinuousIntegration.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Testing is run at appropriate times without human involvement and reports are direct and concise.
@@ -13,7 +15,7 @@ As a person responsible for software quality and correctness for my project, I w
 
 ### Variant A: How will I measure when I have achieved my desired result?
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Regression and unit tests exist but are only run when requested by a developer. |
 | 1 | Tests are run automatically according to the teams policy.      |
@@ -24,7 +26,7 @@ As a person responsible for software quality and correctness for my project, I w
 
 ### Variant B: What are the steps (tasks) I need to accomplish to achieve my goal?
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No CI testing adopted. |
 | 1 | Team adopts a CI method.      |

@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Transmedia Learning Framework for Python
 
+<a href='/ptc-catalog/catalog/TransmediaLearningForPython.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Learn Python enough to more efficiently recall functionality on demand.
@@ -13,7 +15,7 @@ As a casual user of Python I want more Python tutorials and tips so that it beco
 
 ### Variant A: How will I measure when I have achieved my desired result?
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No Transmedia Learning Framework (TLF) for Python. |
 | 1 | Watched Transmedia Learning tutorial, willing to use TLF to learn Python. |
@@ -24,7 +26,7 @@ As a casual user of Python I want more Python tutorials and tips so that it beco
 
 ### Variant B: What are the steps (tasks) I need to accomplish to achieve my goal?
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Agree to Use Transmedia Learning Framework (TLF) for python in tutorial (link). |
 | 1 | Explore Python Video Webinar (link). |

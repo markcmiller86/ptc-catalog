@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Test Driven Development
 
+<a href='/ptc-catalog/catalog/TestDrivenDevelopment.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Team transitions from a traditional development process to a test driven development process.
@@ -13,7 +15,7 @@ will be improved.
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Little or no functional testing. |
 | 1 | Tests are added on an ad-hoc basis after implementation. |

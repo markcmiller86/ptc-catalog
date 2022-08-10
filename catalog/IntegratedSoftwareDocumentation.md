@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Integrated Software Documentation
 
+<a href='/ptc-catalog/catalog/IntegratedSoftwareDocumentation.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Ensure that the user/developer documentation is fully integrated with the associated software.
@@ -15,7 +17,7 @@ I don't have to learn a wholly separate content management system to manage docu
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Documentation is housed in the same repository as the code. |
 | 1 | The documentation is text-based, ascii files (as well as perhaps binary images), just as the code is. |

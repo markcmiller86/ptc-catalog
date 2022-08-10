@@ -1,13 +1,15 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Source Management
 
+<a href='/ptc-catalog/catalog/SourceManagement.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Use Source Management System (SMS).
 
 ## Card(s)
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No evidence that source content is managed. |
 | 1 | Source management system (SMS) is used, but not consistently.      |

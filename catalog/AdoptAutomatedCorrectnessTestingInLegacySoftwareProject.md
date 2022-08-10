@@ -1,6 +1,9 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Adopt Automated Correctness Testing in a Legacy Software Project
 
+<a href='/ptc-catalog/catalog/AdoptAutomatedCorrectnessTestingInLegacySoftwareProject.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
+
 ## Target
 
 Adoption of automated testing for a [legacy software project](https://bssw.io/items/working-effectively-with-legacy-code) that has no automated tests at the beginning (e.g., where testing is done manually or only tested against customer codes).
@@ -11,7 +14,7 @@ As a developer on a legacy software project/product, I want my team to adopt inc
 
 ## Card
 
-| Score | Description | Added Value |
+| Stage | Description | Added Value |
 | :---- | :---------- | :---------- |
 | *0* | One or more automated simple [system-level tests](http://ideas-productivity.org/wordpress/wp-content/uploads/2016/04/IDEAS-TestingWhatIsDefinitionandCategorizationofTestsforCSESoftware-V0.2.pdf) that simply run the code for a few different inputs and look for 0 return code (i.e., does not crash) are created | Major breakages in the code causing segfaults and other crashes will be caught when code is changed or added. |
 | *1* | Comparison of the code outputs to previous outputs are used to create [system-level no-change tests](http://ideas-productivity.org/wordpress/wp-content/uploads/2016/04/IDEAS-TestingWhatIsDefinitionandCategorizationofTestsforCSESoftware-V0.2.pdf). | Changes in the behavior of the code will be caught when code is changed or added. (But such tests can be very fragile.) |

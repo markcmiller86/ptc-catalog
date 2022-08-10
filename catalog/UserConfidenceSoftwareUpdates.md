@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Promote User Confidence in Software Updates 
 
+<a href='/ptc-catalog/catalog/UserConfidenceSoftwareUpdates.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Ensure users are confident of application performance and behavior changes made by an update/new release.
@@ -12,7 +14,7 @@ so that the latest application release is adopted.
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | There is minimal communication about application updates that does not always include behavior or performance changes. Users are not able to easily return to a prior version of the application after an update. |
 | 1 | Application **behavior changes** are recorded to a single location. |

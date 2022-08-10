@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Build a Local Community of Practice
 
+<a href='/ptc-catalog/catalog/CommunityBuilding.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Build a local community around your software project.
@@ -11,7 +13,7 @@ As an individual software contributor I want to build a community so that I can 
 
 ## Card(s)
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No network / local community. |
 | 1 | Investigate existing local communities and the ways in which they network.      |

@@ -1,13 +1,15 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Using Issues on GitHub/GitLab for Design and Development
 
+<a href='/ptc-catalog/catalog/IssuesForDesign.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## User Story
 
 As a software engineer I want my small team to use issues for developing new modules and capabilities so that we can keep track of design ideas and implementations.
 
 ## Card(s)
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Issues have been entered for some core functionalities. |
 | 1 | Development guidelines included in development documentation include using issues for ideas that will be implemented. This is to include adding milestones to issues.     |

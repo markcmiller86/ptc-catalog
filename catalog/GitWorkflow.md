@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Adopt A Git Workflow that Supports Testing and Peer-review
 
+<a href='/ptc-catalog/catalog/GitWorkflow.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Transition from a basic Git workflow to a collaborative workflow that supports testing and peer-review.
@@ -12,7 +14,7 @@ so that all code changes are peer-reviewed and tested.
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Project is using a basic Git workflow for pull-commit-push on a master branch.|
 | 1 | Create local topic branches and confine work to those branches.|

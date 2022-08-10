@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Adopting Consistent Coding Standards
 
+<a href='/ptc-catalog/catalog/CodingStandards.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Steadily convert the codebase over to an agreed-upon standard.
@@ -15,7 +17,7 @@ As a software developer on a project that has a defined coding standard, I want 
 
 ### Variant A: How will I measure when I have achieved my desired result?
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No coding standard adopted. |
 | 1 | Team has selected an agreed-upon standard.      |
@@ -25,7 +27,7 @@ As a software developer on a project that has a defined coding standard, I want 
 
 ### Variant B: What are the steps (tasks) I need to accomplish to achieve my goal?
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No code (intentionally) complies with the standard. |
 | 1 | All new code that is written is required to be compliant with the standard.      |

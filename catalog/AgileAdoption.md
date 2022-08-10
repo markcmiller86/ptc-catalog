@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Agile Adoption
 
+<a href='/ptc-catalog/catalog/AgileAdoption.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Team begins with Kanban and adopts additional processes in response to specific team needs.
@@ -12,7 +14,7 @@ As a project leader, I have heard of teams that have adopted Agile workflows and
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Kanban board exists for team. |
 | 1 | Kanban and Personal Kanban concepts introduced to team.      |

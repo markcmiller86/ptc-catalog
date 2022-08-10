@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Using Epics in Jira for Tracking and Collaboration
 
+<a href='/ptc-catalog/catalog/EpicsForTracking.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 All team members use Jira Epics to communicate work.
@@ -11,7 +13,7 @@ As a project manager I want all staff to write Jira Epics representing LOE so th
 
 ## Card(s)
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Categories of work are defined and Jira project boards set up to represent each category. |
 | 1 | Template Epic has been created to capture stakeholder, expectations, timeframes, impact and capabilities. |

@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Open Source
 
+<a href='/ptc-catalog/catalog/OpenSource.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Software with source code that anyone can inspect, modify, and enhance.
@@ -11,7 +13,7 @@ As a software developer I want to make my project open source so that I can enga
 
 ## Card
 
-| Score | Description |
+| Stage | Description |
 |:-----:|:------------|
 | 0 | Releases are available as a packaged / pre-built binary. Code is not open source. |
 | 1 | The team has adopted an appropriate open source license |

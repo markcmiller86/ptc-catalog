@@ -1,9 +1,11 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Test Coverage
 
+<a href='/ptc-catalog/catalog/TestCoverage.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
 
 
-| Score         | Description |
+
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Little or no independent testing. Functional testing via users. |
 | 1 | Independent functional testing of primary capabilities.      |

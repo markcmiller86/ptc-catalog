@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Improving Project Visibility: Using a Communication Plan
 
+<a href='/ptc-catalog/catalog/ImprovingProjectVisibility.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Improve a project's visibility to the community
@@ -11,7 +13,7 @@ As a project lead, I want to increase my project visibility, so that my project 
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Project has little or no visibility in the community. |
 | 1 | Team has identified and defined what "ideal" project visibility would look like<sup>1</sup>. |

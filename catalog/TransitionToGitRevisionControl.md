@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Transitioning to Git Revision Control
 
+<a href='/ptc-catalog/catalog/TransitionToGitRevisionControl.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Transition to using Git for revision control and basic Git usage.
@@ -11,7 +13,7 @@ As a software engineer I want to use Git revision control, so that the team is a
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | Current revision control practice, e.g., using Subversion or nothing |
 | 1 | Categories of contributors are identified and a time-boxed plan for transitioning to Git is agreed upon |

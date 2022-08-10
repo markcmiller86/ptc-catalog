@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Onboarding A New Team Member
 
+<a href='/ptc-catalog/catalog/OnboardingANewTeamMember.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Create an onboarding process for new team members.
@@ -12,7 +14,7 @@ become contributors to our project using our policies for software development.
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No onboarding process in place. |
 | 1 | Initial onboarding process is documented. The process covers an established time period (pre-arrival, first day, first week, first month, etc.) and includes a checklist of activities. |

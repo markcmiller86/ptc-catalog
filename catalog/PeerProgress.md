@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Tracking and Adjusting to Progress in Peer Projects
 
+<a href='/ptc-catalog/catalog/PeerProgress.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 According as circumstances are favorable, one should modify one's plans. (Sun Tzu)
@@ -13,7 +15,7 @@ so that project efforts can adapt to changing circumstances.
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No regular literature or news review practices are established. |
 | 1 | Team discusses recent project-related developments. |

@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Developer Documentation
 
+<a href='/ptc-catalog/catalog/DeveloperDocumentation.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
  ## Target
 
  Create documentation for use by the developers of a software project
@@ -12,7 +14,7 @@
 
  ## Card
 
- | Score         | Description |
+ | Stage         | Description |
  | :-------------: | :------------- |
  | 0 | No project documentation exists. |
  | 1 | An initial set of documentation has been created<sup>1,2</sup>. |

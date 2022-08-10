@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Performance Regression Testing
 
+<a href='/ptc-catalog/catalog/PerformanceRegressionTesting.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 To develop test suites that exercise performance capabilities and plans for how to make practical use of that performance data.
@@ -12,7 +14,7 @@ address them sooner rather than later in the development process.
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No performance regression testing. |
 | 1 | A testable primary use case and set of measurements that are important to performance are established. |

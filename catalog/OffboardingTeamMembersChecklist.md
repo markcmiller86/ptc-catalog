@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Off-boarding Checklist
 
+<a href='/ptc-catalog/catalog/OffboardingTeamMembersChecklist.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 Incorporating checklists in the off-boarding process for a team member.
 
@@ -9,7 +11,7 @@ As a project leader, I want to have a off-boarding checklist so that I can ensur
 
 ## Card
 
-| Score         | Description |
+| Stage         | Description |
 | :-------------: | :------------- |
 | 0 | No off-boarding checklist exists. |
 | 1 | Team has investigated off-boarding checklists in use by similar contemporary projects in organization or across organizations of similar nature, and documented findings. |

@@ -1,6 +1,8 @@
 [metadata:tags]:- "bssw-psip-ptc"
 # Creating Community Policies
 
+<a href='/ptc-catalog/catalog/CreatingCommunityPolicies.md' download><img src='/ptc-catalog/assets/images/download.png' width='18'> Download this PTC (Markdown)</a>
+
 ## Target
 
 Community software policies (and process for revisin over time)
@@ -11,7 +13,7 @@ As a developer of a software library, I want to collaborate with others to estab
 
 ## Card
 
-| Score | Description |
+| Stage | Description |
 |:-----:|:------------|
 | 0 | No community policies |
 | 1 | Outline of initial software community policies, including determining: community members to collaborate on initial draft policies and general goals of policies |
