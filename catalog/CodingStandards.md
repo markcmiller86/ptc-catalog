@@ -24,6 +24,7 @@ As a software developer on a project that has a defined coding standard, I want 
 | 2 | New code that is written is required to comply with the standard, and the team has conducted a feedback session to assess and revise the standard.      |
 | 3 | The team has developed and put into place a plan to bring pre-existing code into compliance with the standard.      |
 | 4 | Tool support has been put in place to help ensure compliance, and running the tool is made part of contribution guidelines.     |
+| 5 | **Advanced**: Tools and process automations needed to enable programmers edit to their own custom standards but nonetheless submit changes to the shared code base that comply with the adopted team standards are identified and implemented. |
 
 ### Variant B: What are the steps (tasks) I need to accomplish to achieve my goal?
 
